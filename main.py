@@ -108,7 +108,7 @@ Website_entry.grid(column=1, row=1)
 Website_entry.focus()   #automatyczne ustawienie kursora
 Email_entry = Entry(width=42)
 Email_entry.grid(column=1, row=2, columnspan=2)
-Email_entry.insert(0, "kamil_derenda@outlook.com")  #wprowadzenie domyslne
+Email_entry.insert(0, "example@outlook.com")  #wprowadzenie domyslne
 Password_entry = Entry(width=21)
 Password_entry.grid(column=1, row=3)
 
